@@ -6,7 +6,7 @@ This is a web app created using Node.js and related packages (mongoose, express,
 
 * Loads a default list titled "Today"
 * Add and delete items
-* Create custom lists using a URL (Add /<your new list name> to the URL of web App)
+* Create custom lists using a URL (Add "/your-new-list-name" to the URL of web App)
 * Add and delete items from custom lists
 * Data persisted in a mongoDB database, and thus available after refresh.
 

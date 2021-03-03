@@ -8,7 +8,7 @@ This is a web app created using Node.js and related packages (mongoose, express,
 * Add and delete items
 * Create custom lists using a URL (Add "/your-new-list-name" to the URL of web App)
 * Add and delete items from custom lists
-* Data persisted in a mongoDB database, and thus available after refresh.
+* Data persisted in a mongoDB database, thus available after refresh.
 
 
 ## Run on your system
